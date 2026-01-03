@@ -42,4 +42,4 @@ The script will print the process in the terminal and, at the end, it will gener
 This tool is for educational purposes only. Do not use this as your sole financial advice. Always do your own research (DYOR).
 
 ---
-*Built with ❤️ and Python.*
+*Built with coffee and Python.*
